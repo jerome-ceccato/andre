@@ -1,0 +1,1 @@
+discord bbcode pillow sqlalchemy pytz pycountry cexprtk babel html2text googletrans

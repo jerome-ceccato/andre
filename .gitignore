@@ -1,0 +1,19 @@
+.idea/workspace.xml
+.idea/*
+
+bots/*
+
+# Config files
+config.json
+
+# Database
+data/*
+avatar/*
+
+# Byte-compiled / optimized / DLL files
+*/__pycache__/
+__pycache__/
+*.py[cod]
+/.idea/misc.xml
+/.idea/weeeb.iml
+/*.sh
